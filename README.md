@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, Welcome to my Github 
-        <div I'm Taewoong Yoon </h2> </div>
+    <div I'm Taewoong Yoon </h2> </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 인공지능을 좋아하는 개발자</li> </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자 </div>
     </div>
