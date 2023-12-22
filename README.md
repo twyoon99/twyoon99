@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=&animation=&fontColor=000000&fontSize=50" />
-</div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, Welcome to my Github I'm Taewoong Yoon </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 인공지능을 좋아하는 개발자  </div>
