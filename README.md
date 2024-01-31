@@ -5,6 +5,11 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 인공지능을 좋아하는 개발자</li> </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</li> </div>
 </div>
+<br> 
+    <div style="text-align: left;">  
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ Notion Link for the detail information </h2> 
+        <a href="https://www.notion.so/2695c4784dab40f7b21301e304dbba97?pvs=4"> Notion Link </a>
+    </div> 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0; text-align: left;"> 
@@ -33,8 +38,4 @@
         </a>
     </div>  
     <br> 
-    <div style="text-align: left;">  
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ Notion Link for the detail information </h2> 
-        <a href="https://www.notion.so/2695c4784dab40f7b21301e304dbba97?pvs=4"> Notion Link </a>
-    </div> 
 </div>
