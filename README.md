@@ -1,12 +1,13 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, Welcome to my Github 
-    <div style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon </h2> </div>
+        <div style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon </h2> 
+    </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 인공지능을 좋아하는 개발자</li> </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</li> </div>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> 
+    <div style="margin:; text-align: left;" "text-align: left;"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
         <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
