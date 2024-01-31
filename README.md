@@ -33,8 +33,8 @@
     </div>  
     <br> 
     <div style="text-align: left;">  
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ Notion Link </h2> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ Notion Link for the detail information </h2> 
         <br>
-        <a href="https://www.notion.so/58c7421027604eff866086d2a59a3d6b?pvs=4">🏛️ Notion Link for the detail information</a>
+        <a href="https://www.notion.so/2695c4784dab40f7b21301e304dbba97?pvs=4">🏛️ Notion Link for the detail information</a>
     </div> 
 </div>
