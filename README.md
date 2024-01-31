@@ -35,9 +35,6 @@
         <a href=https://yoonteacher.tistory.com/> 
             <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://yoonteacher.tistory.com/"> 
         </a>
-        <a href=https://www.instagram.com/woong._.dl?igsh=bHd3eHpyc3J4em4w&utm_source=qr> 
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/woong._.dl?igsh=bHd3eHpyc3J4em4w&utm_source=qr"> 
-        </a>
     </div>  
     <br> 
 </div>
