@@ -2,7 +2,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, Welcome to my Github 
         <div style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon </h2> 
     </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</li> </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> AI Engineering </li> </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 실제 가치를 만들어 낼 수 있는 AI에 대해 고민하는 개발자 </li> </div>
 </div>
 <br> 
