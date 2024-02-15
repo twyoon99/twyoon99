@@ -32,9 +32,6 @@
         <a href=mailto:taeung816@gmail.com> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:taeung816@gmail.com"> 
         </a>
-        <a href=https://yoonteacher.tistory.com/> 
-            <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://yoonteacher.tistory.com/"> 
-        </a>
     </div>  
     <br> 
 </div>
