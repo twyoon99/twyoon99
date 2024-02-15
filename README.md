@@ -20,7 +20,6 @@
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
         <br/>
-        <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     </div>
