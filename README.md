@@ -4,6 +4,7 @@
     </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> AI Engineer </li> </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 실제 가치를 만들어 낼 수 있는 AI에 대해 고민하는 개발자 </li> </div>
+     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 실제 가치를 만들어 낼 수 있는 AI에 대해 고민하는 개발자 </li> </div>
 </div>
 <br> 
     <div style="text-align: left;">  
