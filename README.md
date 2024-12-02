@@ -3,7 +3,7 @@
         <div style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon </h2> 
     </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> AI Engineer </li> </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 경험을 바탕으로 지속적으로 성장하는 AI개발자 </li> </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 경험을 바탕으로 지속적으로 성장하는 학부생 </li> </div>
 </div>
 <br> 
     <div style="text-align: left;">  
