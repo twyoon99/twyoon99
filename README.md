@@ -6,7 +6,7 @@
 
 <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon
-    ## <div style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm currently researching is Natural Language Processing </div> </h2>h2>
+    <div style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm currently researching is Natural Language Processing </div> </h2>
     <br>
         
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• M.S. Konkuk Univ. NLP Lab. Major in Artificial Intelligence(2025.03 ~ ) </li> </div>
