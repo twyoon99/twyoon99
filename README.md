@@ -14,6 +14,9 @@
   - NLP Research Trainee (2024.07 ~ 2024.08)
 - [TUNiB](https://tunib.ai/)
   - Data Engineer (2023.06 ~ 2023.08)
+ 
+## 🏛️ Notion Link for the detail information
+- [Portfolio](https://decorous-crawdad-e1a.notion.site/TaeWoong-2695c4784dab40f7b21301e304dbba97?pvs=4)
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ Notion Link for the detail information </h2> 
