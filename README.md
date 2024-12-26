@@ -10,7 +10,7 @@
 
 
 ## 💻 Internship
-- [한국전자통신연구원(ETRI)](https://www.etri.re.kr/kor/main/main.etri/)
+- [한국전자통신연구원(ETRI)](https://www.etri.re.kr/kor/main/main.etri)
   - NLP Research Trainee (2024.07 ~ 2024.08)
 - [TUNiB](https://tunib.ai/)
   - Data Engineer (2023.06 ~ 2023.08)
