@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:94c8f7,100:466ed4&height=200&section=header&text=👋%20Welcome%20to%20My%20Github!)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:94c8f7,100:466ed4&height=200&section=header&text=Welcome%20to%20My%20Github!)
 
 </div>
 
 <div style="text-align: left;"> 
-   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon </h2>
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hi! I'm Taewoong Yoon </h2>
         
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• M.S. Konkuk Univ. NLP Lab. Major in Artificial Intelligence(2025.03 ~ ) </li> </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• B.S. Konyang Univ. Major in Medical Artificial Intelligence(2021.03 ~ 2025.02) </li> </div>
