@@ -8,7 +8,7 @@
 - M.S. Konkuk Univ. NLP Lab. Major in Artificial Intelligence (2025.03 ~ )
 - B.S. Konyang Univ. Major in Medical Artificial Intelligence (2021.03 ~ 2025.02)
 
-## 💻 Internship
+## 🧑🏻‍💻 Internship
 - [한국전자통신연구원(ETRI)](https://www.etri.re.kr/kor/main/main.etri)
   - NLP Research Trainee (2024.07 ~ 2024.08)
 - [TUNiB](https://tunib.ai/)
