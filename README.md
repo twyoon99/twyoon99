@@ -5,7 +5,7 @@
 </div>
 
 ## I'm Taewoong Yoon 
-### I'm currently researching is Natural Language Processing
+- I'm currently researching is Natural Language Processing
 
 <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon
