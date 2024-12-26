@@ -11,6 +11,22 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• B.S. Konyang Univ. Major in Medical Artificial Intelligence (2021.03 ~ 2025.02) </li> </div>
 </div>
 <br> 
+
+## 💻 Internship
+- [한국전자통신연구원(ETRI)](https://www.etri.re.kr/kor/main/main.etri/)
+  - NLP Research Trainee (2024.07 ~ 2024.08)
+- [TUNiB](https://tunib.ai/)
+  - Data Engineer (2023.06 ~ 2023.08)
+
+
+
+<div style="text-align: left;"> 
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Internship </h2>
+        
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• M.S. Konkuk Univ. NLP Lab. Major in Artificial Intelligence (2025.03 ~ ) </li> </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• B.S. Konyang Univ. Major in Medical Artificial Intelligence (2021.03 ~ 2025.02) </li> </div>
+</div>
+<br> 
     <div style="text-align: left;">  
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ Notion Link for the detail information </h2> 
         <a href="https://decorous-crawdad-e1a.notion.site/TaeWoong-2695c4784dab40f7b21301e304dbba97?pvs=4"> Notion Link </a>
