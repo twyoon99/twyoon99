@@ -6,7 +6,6 @@
 
 <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I'm Taewoong Yoon </h2>
-    <br>
         
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• M.S. Konkuk Univ. NLP Lab. Major in Artificial Intelligence(2025.03 ~ ) </li> </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">• B.S. Konyang Univ. Major in Medical Artificial Intelligence(2021.03 ~ 2025.02) </li> </div>
