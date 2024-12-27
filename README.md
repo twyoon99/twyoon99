@@ -5,7 +5,7 @@
 </div>
 
 ## 👋 Hi I'm Taewoong Yoon
-- M.S. Konkuk Univ. NLP Lab. Major in Artificial Intelligence (2025.03 ~ )
+- M.S. [Konkuk Univ. NLP Lab.](http://nlp.konkuk.ac.kr/) Major in Artificial Intelligence (2025.03 ~ )
 - B.S. Konyang Univ. Major in Medical Artificial Intelligence (2021.03 ~ 2025.02)
 
 ## 🧑🏻‍💻 Internship
