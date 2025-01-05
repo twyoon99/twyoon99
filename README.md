@@ -5,8 +5,8 @@
 </div>
 
 ## 👋 Hi I'm Taewoong Yoon
-- M.S. Konkuk Univ. NLP Lab. Major in Artificial Intelligence (2025.03 ~ )
-- B.S. Konyang Univ. Major in Medical Artificial Intelligence (2021.03 ~ 2025.02)
+- M.S in Artificial Intelligence, NLP Lab. Konkuk University (2025.03 ~ )
+- B.S in Medical Artificial Intelligence, Konyang University (2021.03 ~ 2025.02)
 
 ## 🧑🏻‍💻 Internship
 - [한국전자통신연구원(ETRI)](https://www.etri.re.kr/kor/main/main.etri)
