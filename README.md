@@ -5,14 +5,14 @@
 </div>
 
 ## 👋 Hi I'm Taewoong Yoon
-- M.S in Artificial Intelligence, NLP Lab. Konkuk Univ. (2025.03 ~ )
-- B.S in Medical Artificial Intelligence, Konyang Univ. (2021.03 ~ 2025.02)
+- M.S in Artificial Intelligence, NLP Lab. Konkuk Univ. (Mar. 2025 ~ )
+- B.S in Medical Artificial Intelligence, Konyang Univ. (Mar. 2021 ~ Feb. 2025)
 
 ## 🧑🏻‍💻 Internship
 - [한국전자통신연구원(ETRI)](https://www.etri.re.kr/kor/main/main.etri)
-  - NLP Research Trainee (2024.07 ~ 2024.08)
+  - NLP Research Trainee (Jul. 2024 ~ Aug. 2024)
 - [TUNiB](https://tunib.ai/)
-  - Data Engineer (2023.06 ~ 2023.08)
+  - Data Engineer (Jun. 2023 ~ Aug. 2023)
 
 ## 🏆 Award
 🥇 대상 - 2024학년도 인공지능 경진대회, Microsoft Korea (Nov. 2024)
