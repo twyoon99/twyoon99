@@ -15,7 +15,7 @@
   - Data Engineer (2023.06 ~ 2023.08)
 
 ## 🏆 Award
-- 🥇 대상 - 2024학년도 한국마이크로소프트 인공지능 경진대회, Microsoft Korea (Nov. 2024)
+🥇 대상 - 2024학년도 한국마이크로소프트 인공지능 경진대회, Microsoft Korea (Nov. 2024)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 MAI - 노인과 기억장애자를 위한 대화형 아바타 기억 강화 시스템
 <br/><br/>🎉 우수발표논문상 - KAICTS 2024 춘계학술대회, Society of Artificial Intelligence Convergence Technology (May. 2024)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EEG 행동 식별 LSTM과 Transformer 모델 비교에 관한 연구
