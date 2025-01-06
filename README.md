@@ -16,18 +16,23 @@
 
 ## 🏆 Award
 - 🥇 대상 - 2024학년도 한국마이크로소프트 인공지능 경진대회, Microsoft Korea (Nov. 2024)
+  
   팀 MAI - 노인과 기억장애자를 위한 대화형 아바타 기억 강화 시스템
  
 - 🎉 우수발표논문상 - KAICTS 2024 춘계학술대회, Society of Artificial Intelligence Convergence Technology (May. 2024)
+  
   EEG 행동 식별 LSTM과 Transformer 모델 비교에 관한 연구
  
 - 🥉 장려상 - DSC 지역 혁신 플랫폼 AWS DeepRacer offline Team match, Konyang University (Jan. 2024)
+  
   4th place out of 20 teams
 
 - 🥉 공학혁신상 - 2023 창의혁신 DNA 산학협력 팀 프로젝트, Sungkyunkwan University Consortium (Oct. 2023)
+  
   팀 CP4A - 2D 모델링을 이용한 자세교정 및 분석 프로그램
 
 - 🥉 장려상 - 제15회 캡스톤디자인 경진대회, Konyang University (Oct. 2023)
+  
   2D 모델링을 이용한 자세교정 및 분석 프로그램
 
 ## 🏛️ Notion Link for the detail information
