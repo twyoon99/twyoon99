@@ -5,6 +5,7 @@
 </div>
 
 ## 👋 Hi I'm Taewoong Yoon
+📚 My research interests are Large Language Model and AI Agent
 - M.S in Artificial Intelligence, NLP Lab. Konkuk Univ. (Mar. 2025 ~ )
 - B.S in Medical Artificial Intelligence, Konyang Univ. (Mar. 2021 ~ Feb. 2025)
 
