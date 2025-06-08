@@ -28,7 +28,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2D 모델링을 이용한 자세교정 및 분석 프로그램
 
 ## 🏛️ Notion Link for the detail information
-- [Portfolio](https://decorous-crawdad-e1a.notion.site/TaeWoong-2695c4784dab40f7b21301e304dbba97?pvs=4)
+- [Portfolio](https://www.notion.so/TaeWoong-AI-Researcher-2695c4784dab40f7b21301e304dbba97?source=copy_link)
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
